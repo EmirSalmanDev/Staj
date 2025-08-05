@@ -1,0 +1,71 @@
+Kat:
+
+
+Departman :
+
+
+Isim:
+
+
+Bilgisayar AK: Ak0696
+
+
+IP Adresi:
+
+
+PC MARKASI
+
+
+
+Name=XCELLERATOR
+
+
+
+
+
+SERI NUMARASI
+
+
+
+
+SerialNumber = 1241241
+
+
+
+
+
+
+
+Ethernet 3: 00-90-0F-AA
+Ethernet: 00-90-0F
+Wi-Fi: 00-90-0F-AA
+Yerel Ağ Bağlantısı* 1: 00-90-0F-AA
+Yerel Ağ Bağlantısı* 2: 00-90-0F-AA
+VMware Network Adapter VMnet1: 00-90-0F-AA
+VMware Network Adapter VMnet8: 00-90-0F-AA
+
+
+ISLEMCI ADI
+
+
+Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz
+
+
+
+
+
+RAM = 63.96
+
+
+
+
+MediaType DeviceID Model
+--------- -------- -----
+HDD	  0	   ST2000DM001
+SSD	  1	   KIOXIA-EXCERIA
+
+
+
+
+
+OS Name:        	Microsoft Windows 10 Pro
