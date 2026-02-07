@@ -1,5 +1,4 @@
 ### Uygulama Derleme Adımları (Windows)
-aha bunu yaz
 ```bash
 python -m venv venv
 pip install -r requirements.txt
